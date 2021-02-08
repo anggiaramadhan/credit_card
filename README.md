@@ -10,4 +10,4 @@ I write unit testing to validate code. Write `ruby credit_card_test.rb` in termi
 
 ## Troubleshooting
 
-Write `chmod u+x check.rb` in your terminal if permission was denied when execute `
+Write `chmod u+x check.rb` in your terminal if permission was denied when execute `check.rb`.
